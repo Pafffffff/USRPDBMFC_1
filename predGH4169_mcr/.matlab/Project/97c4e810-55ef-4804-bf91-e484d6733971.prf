@@ -1,0 +1,13 @@
+ProjectFilesTreeListView=tr1;fo1
+SandboxUUID=C:\Users\Better\Desktop|e488e71e-863a-4012-b6a1-485ae207e435
+LabelsPanelMinimizedPref=0
+PreferencesSavedInRelease=9.6.0.1072779 (R2019a)
+ProjectFilesColumnOrder=icon;name;projectFilePath;projectStatus;projectType;size;modified;Cat_FileClassCategory
+DependencyAnalysisResultsColumnsInvisibleF=projectType;size;modified;ProjectName
+ProjectFilesColumnsInvisible=projectFilePath;projectType;size;modified
+ProjectFilesColumnSizeMap=projectStatus|526;size|0;Cat_FileClassCategory|525;icon|43;name|525;projectType|0;modified|0;projectFilePath|0
+DependencyAnalysisResultsColumnSizeMapF=projectStatus|15;ProblemDescription|15;size|0;ProjectName|0;Cat_FileClassCategory|15;icon|43;name|15;projectType|0;modified|0;projectFilePath|15
+DependencyAnalysisResultsColumnOrderF=icon;name;projectFilePath;projectStatus;projectType;size;modified;Cat_FileClassCategory;ProjectName;ProblemDescription
+LastSelectedView=root:文件
+TableView.FileTableTreeListView=tr0;fo1
+FileMetadataPanelMinimizedPref=1

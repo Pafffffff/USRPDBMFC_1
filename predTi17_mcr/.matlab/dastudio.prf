@@ -1,0 +1,42 @@
+#
+#DAStudio Preference File
+#
+
+
+[DAStudio DDG]
+DDGFontSize=10
+
+[GLUEEditorPreferences]
+CompatiblePortHintingNotification=0
+FirstTimeCPOnByDefaultNotification=0
+FirstTimeScrollNotification=0
+SuggestQuickInsertNotification=0
+
+[General]
+MatlabRelease=2019a
+
+[LibraryBrowser2]
+LBGeometry4Window=580 285 600 549
+LBListWidth=342
+LBRecentName0=simulink/Continuous/Integrator
+LBRecentName1=simulink/Math Operations/Add
+LBRecentName10=simulink/Continuous
+LBRecentName2=simulink/Continuous/Derivative
+LBRecentName3=simulink/Commonly Used Blocks/Sum
+LBRecentName4=simulink/Commonly Used Blocks/Gain
+LBRecentName5=simulink/Signal Routing/Mux
+LBRecentName6=simulink/Sources/Step
+LBRecentName7=simulink/Sources/Ramp
+LBRecentName8=simulink/Sinks/Scope
+LBRecentName9=simulink/Continuous/Transfer Fcn
+LBScaleFactor=1
+LBSearchHistory=sum,gain,
+LBSearch_MatchCase=0
+LBSearch_MatchWholeWord=0
+LBSearch_UseRegExp=0
+LBSortStyle=0
+LBTreePopupHeight=500
+LBTreePopupWidth=250
+LBTreeWidth=244
+LBUseCache=1
+
